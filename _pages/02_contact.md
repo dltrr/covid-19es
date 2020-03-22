@@ -12,6 +12,6 @@ Podem entrar em contato com a gente!
 > **Twitter:** [edsondelatorre](https://twitter.com/edsondelatorre)  
 
 #### Suwellen de Azevedo (Pós-doutoranda da Fiocruz)
->	**CV** [lattes.cnpq.br/7249541064148094](https://lattes.cnpq.br/7249541064148094)  
-> **Email** [suwellendias@gmail.com](mailto:suwellendias@gmail.com)  
-> **Twitter** [su_azevedo](https://twitter.com/su_azevedo)
+>	**CV:** [lattes.cnpq.br/7249541064148094](https://lattes.cnpq.br/7249541064148094)  
+> **Email:** [suwellendias@gmail.com](mailto:suwellendias@gmail.com)  
+> **Twitter:** [su_azevedo](https://twitter.com/su_azevedo)
