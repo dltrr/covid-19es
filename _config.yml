@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: COVID-19 no ES
+email: edsondelatorre@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  Um repositório da situação da epidemia de COVID-19 no Espírito Santo
 baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+url: "http://dltrr.github.io"
+twitter_username: edsondelatorre
+github_username:  dltrr
 # Build Settings
 sass:
   sass_dir: _sass
