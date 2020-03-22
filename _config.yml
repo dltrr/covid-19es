@@ -6,7 +6,7 @@ description: >
 baseurl: "/startjekyll"
 url: "http://dltrr.github.io"
 twitter_username: edsondelatorre
-github_username:  dltrr
+github_username: dltrr
 # Build Settings
 sass:
   sass_dir: _sass
