@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Contact
+title: Contato
 permalink: /contact/
 ---
 
-Contact content goes here.
-
-My e-mail is [email@something.com](mailto:email@something.com).
+## Edson Delatorre (Professor da UFES)
+>	**CV:** [lattes.cnpq.br/9814839314541002](https://lattes.cnpq.br/9814839314541002)  
+> **Email:** [edsondelatorre@gmail.com]   
+> **Twitter:** [edsondelatorre](https://twitter.com/edsondelatorre)  
+## Suwellen de Azevedo (Pós-doutoranda da Fiocruz)
+>	**CV** [lattes.cnpq.br/7249541064148094](https://lattes.cnpq.br/7249541064148094)  
+> **Email** [suwellendias@gmail.com]  
+> **Twitter** [su_azevedo](https://twitter.com/su_azevedo)
