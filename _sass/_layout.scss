@@ -58,6 +58,10 @@ time {
 	max-width: $content-width;
 	margin: 0 auto;
 }
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
 
 /* Aside */
 
