@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<script type="text/javascript" language="javascript"> 
+$('.myIframe').css('height', $(window).height()+'px');
+</script>
+
 <h2> Bem-vindos ao #COVID-19noES, um repositório dos casos de COVID-19 no Espírito Santo </h2>
 
 O #COVID-19noES surgiu como uma iniciativa independente com o objetivo de disponibilizar graficamente os dados atualizados sobre a epidemia do Covid-19 no estado do Espírito Santo. A ideia é trazer informações confiáveis sobre essa pandemia em nosso estado.
@@ -12,22 +16,23 @@ Abaixo você pode encontrar os resultados de algumas das análises que realizamo
 
 <h3> Quantos casos já temos no Espírito Santo? Quantos poderemos ter nos próximos dias? </h3>
 
-<script type="text/javascript" language="javascript"> 
-$('.myIframe').css('height', $(window).height()+'px');
-</script>
-
 <iframe src="./frame/plot.forestcast.exp.html" frameborder="0" width="100%" height="500" class="myIframe"></iframe>
-<center>Pontos pretos no gráfico indicam o número de casos confirmados no Espírito Santo por dia. Pontos em azul são a previsão para os próximos 5 dias (entre 41 e 260 casos em 28/03/2020), se a taxa de crescimento continuar a mesma dos últimos 5 dias. Em azul claro é o intervalo de confiança dessa previsão.</center>
+<center>Pontos pretos no gráfico indicam o número de casos confirmados no Espírito Santo por dia. Pontos em azul são a previsão para os próximos 5 dias (entre 45 e 237 casos em 29/03/2020), se a taxa de crescimento continuar a mesma dos últimos 5 dias. Em azul claro é o intervalo de confiança dessa previsão.</center>
 
 <h3> Como os casos suspeitos estão aumentando no estado? </h3>
 
 <center><iframe src="./frame/evolucao.tipos.casos.html" frameborder="0" width="100%" height="500" class="myIframe"></iframe></center>
 <center>Casos suspeitos são pacientes com sintomas que tiveram contato com casos confirmados ou suspeitos, ou com pessoas que chegaram de área afetada. Veja definição em detalhes no <a href="http://plataforma.saude.gov.br/novocoronavirus/#COVID-19-definition"> site do Ministério da Saúde</a>. Os casos suspeitos são avaliados pela Secretaria de Estado da Saúde do Espírito Santo (SESA), podendo ser reclassificados como casos confirmados ou descartados. Os casos suspeitos formam a maioria dos casos reportados oficialmente, e estão crescendo muito rápido.</center>
 
+<h3> Como se distribuem os casos (suspeitos e confirmados) nas regiões consideradas pela SESA? </h3>
+
+<center><iframe src="./frame/reg.cases.pie.html" frameborder="0" width="100%" height="500" class="myIframe"></iframe></center>
+<center>Estes gráficos de pizza representam a distribuição de casos suspeitos e confirmados pelas diferentes regionais da SESA acumulados até <bold>24/03/2020</bold>. A maior parte dos casos se concentra na região metropolitana, que corresponde a 76% e 90% dos casos suspeitos e confirmados, respectivamente.</center>
+
 <h3> Como se distribuem os casos (suspeitos e confirmados) nos diferentes municípios? </h3>
 
 <center><iframe src="./frame/mapa.es.html" frameborder="0" width="100%" height="500" class="myIframe"></iframe></center>
-<center>A cor de cada município indica a quantidade de casos suspeitos acumulados até o dia <bold>23/03/2020</bold>. A maior parte dos casos suspeitos se concnetra até o momento na região metropolitana do ES. Ao passar o mouse (computador) ou tocar na tela (celular) sobre a área do município, as informações sobre os casos suspeitos e confirmados são mostrados</center>
+<center>A cor de cada município indica a quantidade de casos suspeitos acumulados até o dia <bold>24/03/2020</bold>. A maior parte dos casos suspeitos se concentra até o momento na região metropolitana do ES. Ao passar o mouse (computador) ou tocar na tela (celular) sobre a área do município, as informações sobre os casos suspeitos e confirmados são mostrados</center>
 
 
 <h2> Fontes </h2>
